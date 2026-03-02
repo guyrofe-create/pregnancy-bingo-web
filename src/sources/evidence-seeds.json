@@ -1,0 +1,104 @@
+[
+  {
+    "id": "s001",
+    "sourceType": "pubmed",
+    "pmid": "27669539",
+    "articleType": "randomized_trial",
+    "year": 2016,
+    "journal": "JAMA Intern Med",
+    "title": "Association of Nausea and Vomiting During Pregnancy With Pregnancy Loss",
+    "abstractQuote": "Nausea and vomiting were common very early in pregnancy and were associated with a reduced risk for pregnancy loss.",
+    "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/27669539/",
+    "notes": "Supports association between nausea and reduced miscarriage risk. Not predictive at individual level."
+  },
+  {
+    "id": "s002",
+    "sourceType": "pubmed",
+    "pmid": "19514696",
+    "articleType": "narrative_review",
+    "year": 2009,
+    "journal": "Am Fam Physician",
+    "title": "First trimester bleeding",
+    "abstractQuote": "Vaginal bleeding in the first trimester occurs in about one fourth of pregnancies.",
+    "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/19514696/",
+    "notes": "Provides prevalence data for first-trimester bleeding."
+  },
+  {
+    "id": "s003",
+    "sourceType": "pubmed",
+    "pmid": "11082086",
+    "articleType": "cohort",
+    "year": 2000,
+    "journal": "BMJ",
+    "title": "The timing of the fertile window in the menstrual cycle",
+    "abstractQuote": "In only about 30% of women is the fertile window entirely within days 10 to 17.",
+    "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/11082086/",
+    "notes": "Demonstrates variability of fertile window and challenges day-14 ovulation myth."
+  },
+  {
+    "id": "s004",
+    "sourceType": "pubmed",
+    "pmid": "8876092",
+    "articleType": "cohort",
+    "year": 1996,
+    "journal": "Contraception",
+    "title": "Effectiveness of lactational amenorrhoea in prevention of pregnancy in Manila",
+    "abstractQuote": "The lactational amenorrhoea method was 99% effective when used correctly for up to six months.",
+    "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/8876092/",
+    "notes": "Supports effectiveness of LAM under strict criteria."
+  },
+  {
+    "id": "s005",
+    "sourceType": "guideline",
+    "articleType": "guideline",
+    "year": 2018,
+    "title": "Heavy menstrual bleeding: assessment and management (NG88)",
+    "url": "https://www.nice.org.uk/guidance/ng88",
+    "notes": "Official NICE guideline on heavy menstrual bleeding."
+  },
+  {
+    "id": "s006",
+    "sourceType": "guideline",
+    "articleType": "guideline",
+    "year": 2025,
+    "title": "CDC - Lactational Amenorrhea Method (US MEC Appendix G)",
+    "url": "https://www.cdc.gov/contraception/hcp/usmec/lactational-amenorrhea-method.html",
+    "notes": "Official CDC criteria for LAM use."
+  },
+  {
+    "id": "s007",
+    "sourceType": "guideline",
+    "articleType": "guideline",
+    "year": 2023,
+    "title": "WHO - Restricting caffeine intake during pregnancy",
+    "url": "https://www.who.int/tools/elena/interventions/caffeine-pregnancy",
+    "notes": "WHO recommendation regarding caffeine intake during pregnancy."
+  },
+  {
+    "id": "s008",
+    "sourceType": "guideline",
+    "articleType": "guideline",
+    "year": 2010,
+    "title": "ACOG - Moderate Caffeine Consumption During Pregnancy",
+    "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2010/08/moderate-caffeine-consumption-during-pregnancy",
+    "notes": "ACOG guidance on moderate caffeine intake limits."
+  },
+  {
+    "id": "s009",
+    "sourceType": "guideline",
+    "articleType": "guideline",
+    "year": 2024,
+    "title": "משרד הבריאות - חומצה פולית לפני הריון",
+    "url": "https://me.health.gov.il/parenting/family-planning/healthy-pregnancy-and-preventing-risks/nutrition-pregnancy/folic-acid/",
+    "notes": "Israeli Ministry of Health recommendation on folic acid."
+  },
+  {
+    "id": "s010",
+    "sourceType": "guideline",
+    "articleType": "guideline",
+    "year": 2024,
+    "title": "Gov.il - הריון בסיכון גבוה",
+    "url": "https://www.gov.il/he/pages/highrisk-pregnancy",
+    "notes": "Official Israeli government page regarding high-risk pregnancy."
+  }
+]

@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "pregnancy-001",
+    "topic": "pregnancy",
+    "text": "התעוררת בלילה עם חשק למשהו ספציפי"
+  },
+  {
+    "id": "pregnancy-002",
+    "topic": "pregnancy",
+    "text": "מישהו אמר לך \"תישני עכשיו כל עוד אפשר\""
+  },
+  {
+    "id": "pregnancy-003",
+    "topic": "pregnancy",
+    "text": "בדקת באפליקציה איזה פרי השבוע"
+  },
+  {
+    "id": "pregnancy-004",
+    "topic": "pregnancy",
+    "text": "פתחת את המקרר ושכחת למה"
+  },
+  {
+    "id": "pregnancy-005",
+    "topic": "pregnancy",
+    "text": "קיבלת עצה לא מבוקשת בתור בסופר"
+  },
+  {
+    "id": "pregnancy-006",
+    "topic": "pregnancy",
+    "text": "התרגשת מבעיטה קטנה"
+  },
+  {
+    "id": "pregnancy-007",
+    "topic": "pregnancy",
+    "text": "החזקת את הבטן בלי לשים לב"
+  },
+  {
+    "id": "pregnancy-008",
+    "topic": "pregnancy",
+    "text": "שאלו אותך מה התאריך המשוער"
+  },
+  {
+    "id": "pregnancy-009",
+    "topic": "pregnancy",
+    "text": "אמרת \"אין לי כוח\" לפחות פעמיים היום"
+  },
+  {
+    "id": "pregnancy-010",
+    "topic": "pregnancy",
+    "text": "מאכל אהוב הפך לפחות מועדף"
+  },
+  {
+    "id": "pregnancy-011",
+    "topic": "pregnancy",
+    "text": "צילמת את הבטן מזווית חדשה"
+  },
+  {
+    "id": "pregnancy-012",
+    "topic": "pregnancy",
+    "text": "חיפשת תנוחה נוחה לשינה"
+  },
+  {
+    "id": "pregnancy-013",
+    "topic": "pregnancy",
+    "text": "החלפת צד במיטה אינספור פעמים"
+  },
+  {
+    "id": "pregnancy-014",
+    "topic": "pregnancy",
+    "text": "בדקת אם הבגד עדיין נסגר"
+  },
+  {
+    "id": "pregnancy-015",
+    "topic": "pregnancy",
+    "text": "שמעת \"את זוהרת\" ביום עייף"
+  },
+  {
+    "id": "pregnancy-016",
+    "topic": "pregnancy",
+    "text": "התלבטת שעה על שם אחד"
+  },
+  {
+    "id": "pregnancy-017",
+    "topic": "pregnancy",
+    "text": "קראת תגובות בקבוצת הורים"
+  },
+  {
+    "id": "pregnancy-018",
+    "topic": "pregnancy",
+    "text": "בכית מפרסומת לא קשורה"
+  },
+  {
+    "id": "pregnancy-019",
+    "topic": "pregnancy",
+    "text": "צחקת ואז רצית לבכות"
+  },
+  {
+    "id": "pregnancy-020",
+    "topic": "pregnancy",
+    "text": "אמרת \"עוד רגע אני מגיעה\" והתעכבת"
+  },
+  {
+    "id": "pregnancy-021",
+    "topic": "pregnancy",
+    "text": "נשאלת אם זה בן או בת לפי הבטן"
+  },
+  {
+    "id": "pregnancy-022",
+    "topic": "pregnancy",
+    "text": "ראית תינוק ברחוב וחייכת אוטומטית"
+  },
+  {
+    "id": "pregnancy-023",
+    "topic": "pregnancy",
+    "text": "התחלת רשימת קניות חדשה לאותו שבוע"
+  },
+  {
+    "id": "pregnancy-024",
+    "topic": "pregnancy",
+    "text": "מצאת את עצמך עם בקבוק מים בכל מקום"
+  },
+  {
+    "id": "pregnancy-025",
+    "topic": "pregnancy",
+    "text": "נרדמת מוקדם מהרגיל"
+  },
+  {
+    "id": "pregnancy-026",
+    "topic": "pregnancy",
+    "text": "התעוררת מוקדם מהרגיל"
+  },
+  {
+    "id": "pregnancy-027",
+    "topic": "pregnancy",
+    "text": "קיבלת הודעה \"נו, כבר ילדת?\""
+  },
+  {
+    "id": "pregnancy-028",
+    "topic": "pregnancy",
+    "text": "בדקת שוב את התיק לקראת לידה"
+  },
+  {
+    "id": "pregnancy-029",
+    "topic": "pregnancy",
+    "text": "הוספת עוד משהו קטן לרשימת הציוד"
+  },
+  {
+    "id": "pregnancy-030",
+    "topic": "pregnancy",
+    "text": "עמדת מול הארון ואמרת \"אין לי מה ללבוש\""
+  },
+  {
+    "id": "pregnancy-031",
+    "topic": "pregnancy",
+    "text": "מצאת בגד נוח ולא רצית להחליף"
+  },
+  {
+    "id": "pregnancy-032",
+    "topic": "pregnancy",
+    "text": "נשענת על כרית נוספת בסלון"
+  },
+  {
+    "id": "pregnancy-033",
+    "topic": "pregnancy",
+    "text": "הלכת לאט יותר בלי לתכנן"
+  },
+  {
+    "id": "pregnancy-034",
+    "topic": "pregnancy",
+    "text": "עצרת לנשום לפני מדרגות"
+  },
+  {
+    "id": "pregnancy-035",
+    "topic": "pregnancy",
+    "text": "צחקת על עצמך בגלל שכחנות רגעית"
+  },
+  {
+    "id": "pregnancy-036",
+    "topic": "pregnancy",
+    "text": "שכחת למה נכנסת לחדר"
+  },
+  {
+    "id": "pregnancy-037",
+    "topic": "pregnancy",
+    "text": "פתאום שמעת כל סיפור לידה מסביב"
+  },
+  {
+    "id": "pregnancy-038",
+    "topic": "pregnancy",
+    "text": "קיבלת טיפ מהשכנה במעלית"
+  },
+  {
+    "id": "pregnancy-039",
+    "topic": "pregnancy",
+    "text": "בדקת את מזג האוויר לפי הנוחות שלך"
+  },
+  {
+    "id": "pregnancy-040",
+    "topic": "pregnancy",
+    "text": "ביקשת שקט של חמש דקות"
+  },
+  {
+    "id": "pregnancy-041",
+    "topic": "pregnancy",
+    "text": "רצית מתוק ואז מיד מלוח"
+  },
+  {
+    "id": "pregnancy-042",
+    "topic": "pregnancy",
+    "text": "חיפשת חניה קרובה במיוחד"
+  },
+  {
+    "id": "pregnancy-043",
+    "topic": "pregnancy",
+    "text": "מצאת סיבה לשבת עוד רגע"
+  },
+  {
+    "id": "pregnancy-044",
+    "topic": "pregnancy",
+    "text": "אמרת \"זה מרגיש אחרת השבוע\""
+  },
+  {
+    "id": "pregnancy-045",
+    "topic": "pregnancy",
+    "text": "ספרת שבועות בראש"
+  },
+  {
+    "id": "pregnancy-046",
+    "topic": "pregnancy",
+    "text": "עדכנת מישהו \"היום נכנסתי לשבוע חדש\""
+  },
+  {
+    "id": "pregnancy-047",
+    "topic": "pregnancy",
+    "text": "קיבלת מחמאה על סבלנות"
+  },
+  {
+    "id": "pregnancy-048",
+    "topic": "pregnancy",
+    "text": "חיכית למקלחת כאילו זו חופשה"
+  },
+  {
+    "id": "pregnancy-049",
+    "topic": "pregnancy",
+    "text": "התלהבת מכרית חדשה"
+  },
+  {
+    "id": "pregnancy-050",
+    "topic": "pregnancy",
+    "text": "החלפת נעליים בשביל נוחות"
+  },
+  {
+    "id": "pregnancy-051",
+    "topic": "pregnancy",
+    "text": "שאלו אם יש כבר שם סגור"
+  },
+  {
+    "id": "pregnancy-052",
+    "topic": "pregnancy",
+    "text": "שמעת שתי דעות שונות באותה דקה"
+  },
+  {
+    "id": "pregnancy-053",
+    "topic": "pregnancy",
+    "text": "רצית להיות לבד ואז חיפשת חברה"
+  },
+  {
+    "id": "pregnancy-054",
+    "topic": "pregnancy",
+    "text": "הורדת קצב בלי רגשות אשם"
+  },
+  {
+    "id": "pregnancy-055",
+    "topic": "pregnancy",
+    "text": "תכננת יום רגוע וזה לא קרה"
+  },
+  {
+    "id": "pregnancy-056",
+    "topic": "pregnancy",
+    "text": "נזכרת פתאום בעוד משימה קטנה"
+  },
+  {
+    "id": "pregnancy-057",
+    "topic": "pregnancy",
+    "text": "פגשת חברה וכל השיחה היתה על הריון"
+  },
+  {
+    "id": "pregnancy-058",
+    "topic": "pregnancy",
+    "text": "בדקת כמה שבועות נשארו"
+  },
+  {
+    "id": "pregnancy-059",
+    "topic": "pregnancy",
+    "text": "מצאת את עצמך קוראת ביקורות על עגלות"
+  },
+  {
+    "id": "pregnancy-060",
+    "topic": "pregnancy",
+    "text": "הוספת תזכורת חדשה בטלפון"
+  },
+  {
+    "id": "pregnancy-061",
+    "topic": "pregnancy",
+    "text": "פתחת רשימת שמות שוב"
+  },
+  {
+    "id": "pregnancy-062",
+    "topic": "pregnancy",
+    "text": "סימנת וי על משהו קטן והרגשת ניצחון"
+  },
+  {
+    "id": "pregnancy-063",
+    "topic": "pregnancy",
+    "text": "חשבת על הלידה בזמן המקלחת"
+  },
+  {
+    "id": "pregnancy-064",
+    "topic": "pregnancy",
+    "text": "חייכת כשמישהו דיבר אל הבטן"
+  },
+  {
+    "id": "pregnancy-065",
+    "topic": "pregnancy",
+    "text": "קיבלת \"את נראית מעולה\" ביום פיג׳מה"
+  },
+  {
+    "id": "pregnancy-066",
+    "topic": "pregnancy",
+    "text": "חיפשת את התנוחה הכי נוחה על הספה"
+  },
+  {
+    "id": "pregnancy-067",
+    "topic": "pregnancy",
+    "text": "דיברת על אוכל יותר מהרגיל"
+  },
+  {
+    "id": "pregnancy-068",
+    "topic": "pregnancy",
+    "text": "קיבלת מתנה קטנה לתינוק"
+  },
+  {
+    "id": "pregnancy-069",
+    "topic": "pregnancy",
+    "text": "התחלת לספור תנועות מתוך סקרנות"
+  },
+  {
+    "id": "pregnancy-070",
+    "topic": "pregnancy",
+    "text": "רצית חלון פתוח ואז מזגן"
+  },
+  {
+    "id": "pregnancy-071",
+    "topic": "pregnancy",
+    "text": "בדקת אם יש מעלית לפני הגעה"
+  },
+  {
+    "id": "pregnancy-072",
+    "topic": "pregnancy",
+    "text": "שמרת סרטון מצחיק על הורות"
+  },
+  {
+    "id": "pregnancy-073",
+    "topic": "pregnancy",
+    "text": "עשית סיבוב קצר רק כדי להתאוורר"
+  },
+  {
+    "id": "pregnancy-074",
+    "topic": "pregnancy",
+    "text": "אמרת \"אני רק נחה רגע\" ונשארת שעה"
+  },
+  {
+    "id": "pregnancy-075",
+    "topic": "pregnancy",
+    "text": "השתמשת בכרית בין הברכיים"
+  },
+  {
+    "id": "pregnancy-076",
+    "topic": "pregnancy",
+    "text": "נעלמת לשנ״צ קצר באמצע היום"
+  },
+  {
+    "id": "pregnancy-077",
+    "topic": "pregnancy",
+    "text": "שמעת משפט שמתחיל ב\"כשאני הייתי בהריון...\""
+  },
+  {
+    "id": "pregnancy-078",
+    "topic": "pregnancy",
+    "text": "קיבלת חיבוק שהרגיש בדיוק במקום"
+  },
+  {
+    "id": "pregnancy-079",
+    "topic": "pregnancy",
+    "text": "ענית \"תלוי ביום\" לשאלה איך את מרגישה"
+  },
+  {
+    "id": "pregnancy-080",
+    "topic": "pregnancy",
+    "text": "התלבטת בין שני חטיפים"
+  },
+  {
+    "id": "pregnancy-081",
+    "topic": "pregnancy",
+    "text": "חיפשת תמונה ישנה מתחילת ההריון"
+  },
+  {
+    "id": "pregnancy-082",
+    "topic": "pregnancy",
+    "text": "קיבלת הודעה מתעניינת מאדם שלא דיברתם זמן"
+  },
+  {
+    "id": "pregnancy-083",
+    "topic": "pregnancy",
+    "text": "עשית סדר בתיק שלך מחדש"
+  },
+  {
+    "id": "pregnancy-084",
+    "topic": "pregnancy",
+    "text": "העדפת נעליים שטוחות בלי לחשוב"
+  },
+  {
+    "id": "pregnancy-085",
+    "topic": "pregnancy",
+    "text": "צחקת מהאוטוקורקט של המילה \"הריון\""
+  },
+  {
+    "id": "pregnancy-086",
+    "topic": "pregnancy",
+    "text": "צילמת מסך של משהו לשמור לאחר כך"
+  },
+  {
+    "id": "pregnancy-087",
+    "topic": "pregnancy",
+    "text": "חיכית למעלית גם לקומה אחת"
+  },
+  {
+    "id": "pregnancy-088",
+    "topic": "pregnancy",
+    "text": "אמרת \"לא עכשיו\" לשאלה ארוכה"
+  },
+  {
+    "id": "pregnancy-089",
+    "topic": "pregnancy",
+    "text": "הרגשת שהיום עבר לאט"
+  },
+  {
+    "id": "pregnancy-090",
+    "topic": "pregnancy",
+    "text": "הרגשת שהשבוע טס"
+  },
+  {
+    "id": "pregnancy-091",
+    "topic": "pregnancy",
+    "text": "פתאום כל כיסא נבחן לפי נוחות"
+  },
+  {
+    "id": "pregnancy-092",
+    "topic": "pregnancy",
+    "text": "ביקשת לשבת קרוב ליציאה"
+  },
+  {
+    "id": "pregnancy-093",
+    "topic": "pregnancy",
+    "text": "קיבלת המלצה לסדרה \"לפני הלידה\""
+  },
+  {
+    "id": "pregnancy-094",
+    "topic": "pregnancy",
+    "text": "התחלת לחשוב על מוזיקה לרגע הלידה"
+  },
+  {
+    "id": "pregnancy-095",
+    "topic": "pregnancy",
+    "text": "קיבלת שאלה על צבע החדר"
+  },
+  {
+    "id": "pregnancy-096",
+    "topic": "pregnancy",
+    "text": "פתחת אתר קניות רק \"להציץ\""
+  },
+  {
+    "id": "pregnancy-097",
+    "topic": "pregnancy",
+    "text": "מצאת עצמך משווה מחירים של אותם מוצרים"
+  },
+  {
+    "id": "pregnancy-098",
+    "topic": "pregnancy",
+    "text": "שמעת תינוק בוכה והרגשת משהו בלב"
+  },
+  {
+    "id": "pregnancy-099",
+    "topic": "pregnancy",
+    "text": "התעכבת ביציאה מהבית בגלל \"רק עוד רגע\""
+  },
+  {
+    "id": "pregnancy-100",
+    "topic": "pregnancy",
+    "text": "חיפשת מטען לטלפון לפני כל יציאה"
+  },
+  {
+    "id": "pregnancy-101",
+    "topic": "pregnancy",
+    "text": "התלהבת מהודעה \"שבוע חדש שמח\""
+  },
+  {
+    "id": "pregnancy-102",
+    "topic": "pregnancy",
+    "text": "סימנת נקודה ביומן והרגשת התקדמות"
+  },
+  {
+    "id": "pregnancy-103",
+    "topic": "pregnancy",
+    "text": "אמרת \"עוד קצת סבלנות\""
+  },
+  {
+    "id": "pregnancy-104",
+    "topic": "pregnancy",
+    "text": "קיבלת טיפ שחזר על עצמו שלוש פעמים"
+  },
+  {
+    "id": "pregnancy-105",
+    "topic": "pregnancy",
+    "text": "נשאלת אם הכנת כבר את החדר"
+  },
+  {
+    "id": "pregnancy-106",
+    "topic": "pregnancy",
+    "text": "העדפת בגדים רחבים ונעימים"
+  },
+  {
+    "id": "pregnancy-107",
+    "topic": "pregnancy",
+    "text": "נשענת על הקיר בזמן המתנה"
+  },
+  {
+    "id": "pregnancy-108",
+    "topic": "pregnancy",
+    "text": "בדקת שוב מה יש ברשימת בית החולים"
+  },
+  {
+    "id": "pregnancy-109",
+    "topic": "pregnancy",
+    "text": "שינית תוכניות לפי רמת האנרגיה"
+  },
+  {
+    "id": "pregnancy-110",
+    "topic": "pregnancy",
+    "text": "התגעגעת לשינה רציפה"
+  },
+  {
+    "id": "pregnancy-111",
+    "topic": "pregnancy",
+    "text": "אמרת \"מחר אסדר את זה\" לגבי ציוד"
+  },
+  {
+    "id": "pregnancy-112",
+    "topic": "pregnancy",
+    "text": "שמעת שיר וחשבת על התינוק"
+  },
+  {
+    "id": "pregnancy-113",
+    "topic": "pregnancy",
+    "text": "פגשת מישהי בהריון והחלפתן מבט מבין"
+  },
+  {
+    "id": "pregnancy-114",
+    "topic": "pregnancy",
+    "text": "רצית יום שקט בלי טלפונים"
+  },
+  {
+    "id": "pregnancy-115",
+    "topic": "pregnancy",
+    "text": "קיבלת הודעת \"בהצלחה\" מרגשת"
+  },
+  {
+    "id": "pregnancy-116",
+    "topic": "pregnancy",
+    "text": "בדקת את הטלפון יותר מהרגיל"
+  },
+  {
+    "id": "pregnancy-117",
+    "topic": "pregnancy",
+    "text": "בחרת מסעדה לפי מה שבא לך באותו רגע"
+  },
+  {
+    "id": "pregnancy-118",
+    "topic": "pregnancy",
+    "text": "ביקשת מנה בלי מאמץ להסביר למה"
+  },
+  {
+    "id": "pregnancy-119",
+    "topic": "pregnancy",
+    "text": "חיפשת שוב את תאריך הבדיקה הבאה"
+  },
+  {
+    "id": "pregnancy-120",
+    "topic": "pregnancy",
+    "text": "אמרת \"עוד שבוע עבר\""
+  },
+  {
+    "id": "pregnancy-121",
+    "topic": "pregnancy",
+    "text": "נזכרת כמה מהר הכל השתנה"
+  },
+  {
+    "id": "pregnancy-122",
+    "topic": "pregnancy",
+    "text": "מצאת את עצמך מדברת לבטן"
+  },
+  {
+    "id": "pregnancy-123",
+    "topic": "pregnancy",
+    "text": "תכננת לצאת מוקדם ובסוף יצאת רגיל"
+  },
+  {
+    "id": "pregnancy-124",
+    "topic": "pregnancy",
+    "text": "חיפשת מקום ישיבה בצל"
+  },
+  {
+    "id": "pregnancy-125",
+    "topic": "pregnancy",
+    "text": "שמרת לינק לעגלה או מיטה"
+  },
+  {
+    "id": "pregnancy-126",
+    "topic": "pregnancy",
+    "text": "דמיינת את היום הראשון בבית"
+  },
+  {
+    "id": "pregnancy-127",
+    "topic": "pregnancy",
+    "text": "קיבלת שאלה אם כבר יש תוכנית לידה"
+  },
+  {
+    "id": "pregnancy-128",
+    "topic": "pregnancy",
+    "text": "פתאום כולם שמו לב כשקמת לאט"
+  },
+  {
+    "id": "pregnancy-129",
+    "topic": "pregnancy",
+    "text": "אמרת \"היום הולך לי לאט, אבל טוב\""
+  },
+  {
+    "id": "pregnancy-130",
+    "topic": "pregnancy",
+    "text": "הודית לעצמך על רגע קטן של מנוחה"
+  },
+  {
+    "id": "period-001",
+    "topic": "period",
+    "text": "הווסת הקדימה או איחרה ביום-יומיים והתחלת חישובים בראש"
+  },
+  {
+    "id": "period-002",
+    "topic": "period",
+    "text": "בדקת אם יש תחבושת או טמפון בכל תיק"
+  },
+  {
+    "id": "period-003",
+    "topic": "period",
+    "text": "אמרת לעצמך שהיום חייבים בקבוק מים צמוד"
+  },
+  {
+    "id": "period-004",
+    "topic": "period",
+    "text": "חיפשת בגדים הכי נוחים ליום של כאבי מחזור"
+  },
+  {
+    "id": "period-005",
+    "topic": "period",
+    "text": "שמרת תזכורת ביומן לתאריך וסת הבא"
+  },
+  {
+    "id": "period-006",
+    "topic": "period",
+    "text": "השתמשת בכרית חימום בזמן מנוחה"
+  },
+  {
+    "id": "period-007",
+    "topic": "period",
+    "text": "תכננת יום רגוע יותר בגלל כאבי בטן"
+  },
+  {
+    "id": "period-008",
+    "topic": "period",
+    "text": "בדקת אפליקציה כדי לראות באיזה יום מחזור את"
+  },
+  {
+    "id": "period-009",
+    "topic": "period",
+    "text": "הכנת שוקולד או נשנוש מנחם מראש"
+  },
+  {
+    "id": "period-010",
+    "topic": "period",
+    "text": "שינית תוכנית יציאה לפי איך שאת מרגישה"
+  },
+  {
+    "id": "period-011",
+    "topic": "period",
+    "text": "לקחת איתך ציוד מחזור \"ליתר ביטחון\""
+  },
+  {
+    "id": "period-012",
+    "topic": "period",
+    "text": "אמרת \"זה אחד מהימים האלה\""
+  },
+  {
+    "id": "period-013",
+    "topic": "period",
+    "text": "לבשת משהו כהה רק בשביל שקט נפשי"
+  },
+  {
+    "id": "period-014",
+    "topic": "period",
+    "text": "חיפשת מקום ישיבה נוח בתחבורה או בעבודה"
+  },
+  {
+    "id": "period-015",
+    "topic": "period",
+    "text": "ספרת ימים מאז תחילת הווסת"
+  },
+  {
+    "id": "period-016",
+    "topic": "period",
+    "text": "בדקת אם נגמר המלאי בבית והוספת לקניות"
+  },
+  {
+    "id": "period-017",
+    "topic": "period",
+    "text": "שתית תה חם והרגשת שזה עוזר למצב רוח"
+  },
+  {
+    "id": "period-018",
+    "topic": "period",
+    "text": "כתבת לעצמך הערה על דפוס שחוזר כל חודש"
+  },
+  {
+    "id": "period-019",
+    "topic": "period",
+    "text": "אמרת לחברה \"המחזור הגיע בזמן הכי לא מתאים\""
+  },
+  {
+    "id": "period-020",
+    "topic": "period",
+    "text": "בדקת פעמיים בתיק לפני יציאה ארוכה"
+  },
+  {
+    "id": "period-021",
+    "topic": "period",
+    "text": "בחרת פעילות קלילה במקום אימון עצים"
+  },
+  {
+    "id": "period-022",
+    "topic": "period",
+    "text": "נרדמת מוקדם כי הגוף ביקש מנוחה"
+  },
+  {
+    "id": "period-023",
+    "topic": "period",
+    "text": "חיפשת טיפים כלליים להתמודדות עם יום מחזור עמוס"
+  },
+  {
+    "id": "period-024",
+    "topic": "period",
+    "text": "העדפת להישאר בבית במקום לו\"ז צפוף"
+  },
+  {
+    "id": "period-025",
+    "topic": "period",
+    "text": "שתפת מישהי קרובה שאת ביום רגיש יותר"
+  },
+  {
+    "id": "period-026",
+    "topic": "period",
+    "text": "ניסית לשמור על ארוחות מסודרות לאורך היום"
+  },
+  {
+    "id": "period-027",
+    "topic": "period",
+    "text": "אמרת \"עוד יומיים זה עובר\""
+  },
+  {
+    "id": "period-028",
+    "topic": "period",
+    "text": "בדקת אם יש שירותים קרובים לפני יציאה"
+  },
+  {
+    "id": "period-029",
+    "topic": "period",
+    "text": "סימנת וי על עוד חודש שנוהל בהצלחה"
+  },
+  {
+    "id": "period-030",
+    "topic": "period",
+    "text": "אמרת לעצמך שהפעם תעקבי יותר מסודר"
+  },
+  {
+    "id": "fertility-001",
+    "topic": "fertility",
+    "text": "בדקת חלון פוריות באפליקציה יותר מפעם אחת ביום"
+  },
+  {
+    "id": "fertility-002",
+    "topic": "fertility",
+    "text": "שמרת תזכורת לבדיקת ביוץ לשעה קבועה"
+  },
+  {
+    "id": "fertility-003",
+    "topic": "fertility",
+    "text": "ספרת ימים מתחילת המחזור כדי להבין תזמון"
+  },
+  {
+    "id": "fertility-004",
+    "topic": "fertility",
+    "text": "השווית בין שתי אפליקציות מעקב שונות"
+  },
+  {
+    "id": "fertility-005",
+    "topic": "fertility",
+    "text": "כתבת תאריכים חשובים ביומן משותף"
+  },
+  {
+    "id": "fertility-006",
+    "topic": "fertility",
+    "text": "חיפשת מידע כללי על שונות בין מחזורים"
+  },
+  {
+    "id": "fertility-007",
+    "topic": "fertility",
+    "text": "אמרת \"החודש ננסה להיות יותר רגועים\""
+  },
+  {
+    "id": "fertility-008",
+    "topic": "fertility",
+    "text": "בדקת אם יש סטיקים זמינים בבית"
+  },
+  {
+    "id": "fertility-009",
+    "topic": "fertility",
+    "text": "שוחחת עם בן/בת הזוג על תזמון נוח לשניכם"
+  },
+  {
+    "id": "fertility-010",
+    "topic": "fertility",
+    "text": "עדכנת גיליון מעקב אישי בסוף היום"
+  },
+  {
+    "id": "fertility-011",
+    "topic": "fertility",
+    "text": "בדקת האם המחזור החודש היה ארוך מהרגיל"
+  },
+  {
+    "id": "fertility-012",
+    "topic": "fertility",
+    "text": "השווית תסמינים בין חודש נוכחי לקודם"
+  },
+  {
+    "id": "fertility-013",
+    "topic": "fertility",
+    "text": "ניסית להימנע מיותר מדי חישובים מלחיצים"
+  },
+  {
+    "id": "fertility-014",
+    "topic": "fertility",
+    "text": "שמרת קישור למאמר כללי בנושא פוריות"
+  },
+  {
+    "id": "fertility-015",
+    "topic": "fertility",
+    "text": "אמרת לעצמך שהגוף לא תמיד עובד לפי ספר"
+  },
+  {
+    "id": "fertility-016",
+    "topic": "fertility",
+    "text": "בדקת מה אומרים מושגים כמו \"חלון פוריות\""
+  },
+  {
+    "id": "fertility-017",
+    "topic": "fertility",
+    "text": "קבעת לעצמך מדיניות פחות בדיקות ויותר שקט"
+  },
+  {
+    "id": "fertility-018",
+    "topic": "fertility",
+    "text": "דיברת עם חברה על שונות טבעית בין נשים"
+  },
+  {
+    "id": "fertility-019",
+    "topic": "fertility",
+    "text": "החלטת לעקוב חודש אחד בצורה מסודרת יותר"
+  },
+  {
+    "id": "fertility-020",
+    "topic": "fertility",
+    "text": "סימנת ביומן ימים שנראים רלוונטיים"
+  },
+  {
+    "id": "fertility-021",
+    "topic": "fertility",
+    "text": "בדקת אם המחזור הגיע בתאריך הצפוי או לא"
+  },
+  {
+    "id": "fertility-022",
+    "topic": "fertility",
+    "text": "אמרת \"נעשה את זה פשוט החודש\""
+  },
+  {
+    "id": "fertility-023",
+    "topic": "fertility",
+    "text": "השארת מקום לגמישות בתכנון היומי"
+  },
+  {
+    "id": "fertility-024",
+    "topic": "fertility",
+    "text": "קראת על גורמים שמשפיעים על תזמון ביוץ"
+  },
+  {
+    "id": "fertility-025",
+    "topic": "fertility",
+    "text": "נזכרת שלא כל מחזור זהה לקודם"
+  },
+  {
+    "id": "fertility-026",
+    "topic": "fertility",
+    "text": "הפחתת התראות מיותרות מהאפליקציה"
+  },
+  {
+    "id": "fertility-027",
+    "topic": "fertility",
+    "text": "תיעדת תאריך התחלה חדש של מחזור"
+  },
+  {
+    "id": "fertility-028",
+    "topic": "fertility",
+    "text": "בדקת נתונים קודמים לפני קבלת החלטות"
+  },
+  {
+    "id": "fertility-029",
+    "topic": "fertility",
+    "text": "בחרת להתמקד בעקביות במקום שלמות"
+  },
+  {
+    "id": "fertility-030",
+    "topic": "fertility",
+    "text": "אמרת \"נראה מה יהיה ונמשיך לעקוב\""
+  },
+  {
+    "id": "contraception-001",
+    "topic": "contraception",
+    "text": "בדקת שיש אמצעי מניעה זמין לפני סוף השבוע"
+  },
+  {
+    "id": "contraception-002",
+    "topic": "contraception",
+    "text": "שמת תזכורת יומית קבועה לנטילת גלולה"
+  },
+  {
+    "id": "contraception-003",
+    "topic": "contraception",
+    "text": "בדקת מתי צריך לחדש מרשם או מלאי"
+  },
+  {
+    "id": "contraception-004",
+    "topic": "contraception",
+    "text": "שוחחת עם בן/בת הזוג על אחריות משותפת"
+  },
+  {
+    "id": "contraception-005",
+    "topic": "contraception",
+    "text": "בדקת תאריך תפוגה על אמצעי מניעה"
+  },
+  {
+    "id": "contraception-006",
+    "topic": "contraception",
+    "text": "הוספת תזכורת לגיבוי במקרה ששכחת מנה"
+  },
+  {
+    "id": "contraception-007",
+    "topic": "contraception",
+    "text": "קראת דף הסבר רשמי על אפשרויות שונות"
+  },
+  {
+    "id": "contraception-008",
+    "topic": "contraception",
+    "text": "בדקת מה מתאים ללוח הזמנים שלך"
+  },
+  {
+    "id": "contraception-009",
+    "topic": "contraception",
+    "text": "החלטת להכין מראש ציוד לנסיעה קצרה"
+  },
+  {
+    "id": "contraception-010",
+    "topic": "contraception",
+    "text": "אמרת \"עדיף לתכנן מאשר להילחץ ברגע האחרון\""
+  },
+  {
+    "id": "contraception-011",
+    "topic": "contraception",
+    "text": "בדקת אם צריך לקבוע תור מעקב תקופתי"
+  },
+  {
+    "id": "contraception-012",
+    "topic": "contraception",
+    "text": "שמרת הערה על תופעות שאת עוקבת אחריהן"
+  },
+  {
+    "id": "contraception-013",
+    "topic": "contraception",
+    "text": "בחרת שיטת תזכורת שלא מפספסים"
+  },
+  {
+    "id": "contraception-014",
+    "topic": "contraception",
+    "text": "דיברת על מיתוסים נפוצים סביב מניעה"
+  },
+  {
+    "id": "contraception-015",
+    "topic": "contraception",
+    "text": "בדקת מקור מידע מקצועי במקום שמועות"
+  },
+  {
+    "id": "contraception-016",
+    "topic": "contraception",
+    "text": "עדכנת את האפליקציה בתאריך התחלה חדש"
+  },
+  {
+    "id": "contraception-017",
+    "topic": "contraception",
+    "text": "שמעת עצה סותרת והעדפת לבדוק מקור מוסמך"
+  },
+  {
+    "id": "contraception-018",
+    "topic": "contraception",
+    "text": "הכנת תוכנית ליום עמוס כדי לא לשכוח"
+  },
+  {
+    "id": "contraception-019",
+    "topic": "contraception",
+    "text": "אמרת \"נוחות ודיוק חשובים לי יותר מהכול\""
+  },
+  {
+    "id": "contraception-020",
+    "topic": "contraception",
+    "text": "בדקת אם יש שינוי בתרופות נוספות"
+  },
+  {
+    "id": "contraception-021",
+    "topic": "contraception",
+    "text": "ארגנת תיק קטן עם מה שצריך ליציאות"
+  },
+  {
+    "id": "contraception-022",
+    "topic": "contraception",
+    "text": "קבעת שיחה קצרה על תיאום ציפיות זוגי"
+  },
+  {
+    "id": "contraception-023",
+    "topic": "contraception",
+    "text": "בדקת מה המדיניות בנסיעה לחו\"ל"
+  },
+  {
+    "id": "contraception-024",
+    "topic": "contraception",
+    "text": "סימנת ביומן מתי צריך חידוש הבא"
+  },
+  {
+    "id": "contraception-025",
+    "topic": "contraception",
+    "text": "שמעת מיתוס והחלטת לא לקחת כמובן מאליו"
+  },
+  {
+    "id": "contraception-026",
+    "topic": "contraception",
+    "text": "בדקת התאמה לשגרה האישית שלך"
+  },
+  {
+    "id": "contraception-027",
+    "topic": "contraception",
+    "text": "שמרת לינק להנחיה רשמית לקריאה חוזרת"
+  },
+  {
+    "id": "contraception-028",
+    "topic": "contraception",
+    "text": "בחרת להישאר עקבית גם בימים עמוסים"
+  },
+  {
+    "id": "contraception-029",
+    "topic": "contraception",
+    "text": "בדקת פעמיים לפני סופ\"ש ארוך"
+  },
+  {
+    "id": "contraception-030",
+    "topic": "contraception",
+    "text": "אמרת לעצמך \"סדר קטן חוסך בלגן\""
+  },
+  {
+    "id": "postpartum-001",
+    "topic": "postpartum",
+    "text": "אמרת \"הלו״ז עכשיו שייך לחלונות שינה\""
+  },
+  {
+    "id": "postpartum-002",
+    "topic": "postpartum",
+    "text": "בדקת אם נשארו חיתולים לפני הלילה"
+  },
+  {
+    "id": "postpartum-003",
+    "topic": "postpartum",
+    "text": "חיפשת רגע קצר למקלחת בלי הפרעות"
+  },
+  {
+    "id": "postpartum-004",
+    "topic": "postpartum",
+    "text": "קיבלת הודעה \"תנוחי כשאפשר\""
+  },
+  {
+    "id": "postpartum-005",
+    "topic": "postpartum",
+    "text": "העדפת ארוחה מהירה ונגישה לידך"
+  },
+  {
+    "id": "postpartum-006",
+    "topic": "postpartum",
+    "text": "ארגנת פינה עם מים, נשנוש ומטליות"
+  },
+  {
+    "id": "postpartum-007",
+    "topic": "postpartum",
+    "text": "שמת תזכורת קטנה גם לעצמך, לא רק לתינוק"
+  },
+  {
+    "id": "postpartum-008",
+    "topic": "postpartum",
+    "text": "אמרת \"היום מתקדם לאט אבל מתקדם\""
+  },
+  {
+    "id": "postpartum-009",
+    "topic": "postpartum",
+    "text": "ביקשת עזרה במשימה אחת כדי להוריד עומס"
+  },
+  {
+    "id": "postpartum-010",
+    "topic": "postpartum",
+    "text": "בדקת רשימת משימות והורדת ציפיות ליום"
+  },
+  {
+    "id": "postpartum-011",
+    "topic": "postpartum",
+    "text": "חייכת כשהצלחת לתפוס תנומה קצרה"
+  },
+  {
+    "id": "postpartum-012",
+    "topic": "postpartum",
+    "text": "החלפת בגדים לתינוק יותר מפעם אחת בשעה"
+  },
+  {
+    "id": "postpartum-013",
+    "topic": "postpartum",
+    "text": "קיבלת טיפ אחר מכל אורח שהגיע"
+  },
+  {
+    "id": "postpartum-014",
+    "topic": "postpartum",
+    "text": "אמרת \"אנחנו לומדים את זה תוך כדי תנועה\""
+  },
+  {
+    "id": "postpartum-015",
+    "topic": "postpartum",
+    "text": "שמרת תיעוד קצר של זמני האכלה/שינה"
+  },
+  {
+    "id": "postpartum-016",
+    "topic": "postpartum",
+    "text": "בחרת לדחות מטלות לא דחופות למחר"
+  },
+  {
+    "id": "postpartum-017",
+    "topic": "postpartum",
+    "text": "הערכת את עצמך על ניצחון קטן של היום"
+  },
+  {
+    "id": "postpartum-018",
+    "topic": "postpartum",
+    "text": "בדקת שוב שיש בגדים נקיים זמינים"
+  },
+  {
+    "id": "postpartum-019",
+    "topic": "postpartum",
+    "text": "עשית סיבוב קצר באוויר לניקוי ראש"
+  },
+  {
+    "id": "postpartum-020",
+    "topic": "postpartum",
+    "text": "אמרת \"אין יום זהה לקודם\""
+  },
+  {
+    "id": "postpartum-021",
+    "topic": "postpartum",
+    "text": "העדפת הודעות טקסט קצרות במקום שיחות ארוכות"
+  },
+  {
+    "id": "postpartum-022",
+    "topic": "postpartum",
+    "text": "מצאת דרך חדשה להרגיע בזמן בכי"
+  },
+  {
+    "id": "postpartum-023",
+    "topic": "postpartum",
+    "text": "החלפת בין מצבי מנשא/עגלה לפי הצורך"
+  },
+  {
+    "id": "postpartum-024",
+    "topic": "postpartum",
+    "text": "ביקשת מהסביבה פתרון פרקטי ולא עוד עצות"
+  },
+  {
+    "id": "postpartum-025",
+    "topic": "postpartum",
+    "text": "זכרת לשתות מים לאורך היום"
+  },
+  {
+    "id": "postpartum-026",
+    "topic": "postpartum",
+    "text": "אמרת \"הכול בסדר גם אם הבית לא מושלם\""
+  },
+  {
+    "id": "postpartum-027",
+    "topic": "postpartum",
+    "text": "התאמת תוכנית יציאה לפי חלון שינה"
+  },
+  {
+    "id": "postpartum-028",
+    "topic": "postpartum",
+    "text": "סימנת התקדמות קטנה ביומן האישי"
+  },
+  {
+    "id": "postpartum-029",
+    "topic": "postpartum",
+    "text": "קיבלת חיבוק שהגיע בדיוק בזמן"
+  },
+  {
+    "id": "postpartum-030",
+    "topic": "postpartum",
+    "text": "אמרת לעצמך \"אנחנו עושים הכי טוב שאפשר\""
+  },
+  {
+    "id": "breastfeeding-001",
+    "topic": "breastfeeding",
+    "text": "בדקת אם יש בקבוק מים ליד עמדת ההנקה"
+  },
+  {
+    "id": "breastfeeding-002",
+    "topic": "breastfeeding",
+    "text": "הכנת כרית הנקה לפני שהתיישבת"
+  },
+  {
+    "id": "breastfeeding-003",
+    "topic": "breastfeeding",
+    "text": "חיפשת תנוחה נוחה יותר לשני הצדדים"
+  },
+  {
+    "id": "breastfeeding-004",
+    "topic": "breastfeeding",
+    "text": "סימנת לעצמך זמן הנקה אחרונה"
+  },
+  {
+    "id": "breastfeeding-005",
+    "topic": "breastfeeding",
+    "text": "אמרת \"היום זה מרגיש קצת אחרת\""
+  },
+  {
+    "id": "breastfeeding-006",
+    "topic": "breastfeeding",
+    "text": "בדקת אם יש מטליות נקיות בהישג יד"
+  },
+  {
+    "id": "breastfeeding-007",
+    "topic": "breastfeeding",
+    "text": "ניסית צד אחר כדי לשפר נוחות"
+  },
+  {
+    "id": "breastfeeding-008",
+    "topic": "breastfeeding",
+    "text": "בחרת חולצה נוחה להנקה מחוץ לבית"
+  },
+  {
+    "id": "breastfeeding-009",
+    "topic": "breastfeeding",
+    "text": "שמרת נשנוש קטן לידך לשעת הנקה"
+  },
+  {
+    "id": "breastfeeding-010",
+    "topic": "breastfeeding",
+    "text": "תיעדת בקצרה דפוס יומי של הנקות"
+  },
+  {
+    "id": "breastfeeding-011",
+    "topic": "breastfeeding",
+    "text": "ביקשת שקט של כמה דקות בזמן האכלה"
+  },
+  {
+    "id": "breastfeeding-012",
+    "topic": "breastfeeding",
+    "text": "העדפת פינה שקטה יותר לפני הנקה"
+  },
+  {
+    "id": "breastfeeding-013",
+    "topic": "breastfeeding",
+    "text": "בדקת אם צריך להחליף רפידה"
+  },
+  {
+    "id": "breastfeeding-014",
+    "topic": "breastfeeding",
+    "text": "אמרת \"נלמד את הקצב שמתאים לנו\""
+  },
+  {
+    "id": "breastfeeding-015",
+    "topic": "breastfeeding",
+    "text": "ארגנת תיק יציאה עם ציוד הנקה בסיסי"
+  },
+  {
+    "id": "breastfeeding-016",
+    "topic": "breastfeeding",
+    "text": "חיפשת דרך נוחה לשבת בלילה"
+  },
+  {
+    "id": "breastfeeding-017",
+    "topic": "breastfeeding",
+    "text": "ניסית הפסקה קצרה ואז חזרת להנקה"
+  },
+  {
+    "id": "breastfeeding-018",
+    "topic": "breastfeeding",
+    "text": "שמת לב שזמני ההנקה משתנים במהלך היום"
+  },
+  {
+    "id": "breastfeeding-019",
+    "topic": "breastfeeding",
+    "text": "שוחחת עם מישהי אחרת על חוויות הנקה"
+  },
+  {
+    "id": "breastfeeding-020",
+    "topic": "breastfeeding",
+    "text": "בחרת בגדים עם פתיחה נוחה להאכלה"
+  },
+  {
+    "id": "breastfeeding-021",
+    "topic": "breastfeeding",
+    "text": "בדקת שיש תמיכה לגב בזמן ישיבה ארוכה"
+  },
+  {
+    "id": "breastfeeding-022",
+    "topic": "breastfeeding",
+    "text": "אמרת \"כל יום מביא למידה חדשה\""
+  },
+  {
+    "id": "breastfeeding-023",
+    "topic": "breastfeeding",
+    "text": "חיפשת הצללה/כיסוי לפי נוחות אישית"
+  },
+  {
+    "id": "breastfeeding-024",
+    "topic": "breastfeeding",
+    "text": "נזכרת שגם לך מגיעה מנוחה קצרה"
+  },
+  {
+    "id": "breastfeeding-025",
+    "topic": "breastfeeding",
+    "text": "בדקת אם יש מקום נוח להנקה מחוץ לבית"
+  },
+  {
+    "id": "breastfeeding-026",
+    "topic": "breastfeeding",
+    "text": "ארגנת תזכורת עדינה לשתיית מים"
+  },
+  {
+    "id": "breastfeeding-027",
+    "topic": "breastfeeding",
+    "text": "הרגשת שהיום ההאכלה זרמה טוב יותר"
+  },
+  {
+    "id": "breastfeeding-028",
+    "topic": "breastfeeding",
+    "text": "עדכנת הערה קצרה על מה שעבד עבורך"
+  },
+  {
+    "id": "breastfeeding-029",
+    "topic": "breastfeeding",
+    "text": "אמרת \"לאט ובקצב שלנו\""
+  },
+  {
+    "id": "breastfeeding-030",
+    "topic": "breastfeeding",
+    "text": "סיימת האכלה והרגשת ניצחון קטן"
+  }
+]

@@ -4,14 +4,22 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "build": "npm run validate && next build",
+    "harvest:dedupe": "tsx scripts/dedupe-harvest.ts",
+    "harvest:index": "tsx scripts/fetch-indexes.ts --max 500 --timeoutMs 15000",
+    "harvest:promote-top": "tsx scripts/promote-harvest.ts --in src/harvest/harvest-unique-top5000.json --out src/harvest/draft-myths-top5000.json",
+    "harvest:web": "tsx scripts/harvest-web.ts",
+    "validate": "tsx scripts/validate-myths.ts",
     "start": "next start",
     "lint": "eslint"
   },
   "dependencies": {
+    "cheerio": "^1.2.0",
     "next": "16.1.6",
+    "p-limit": "^7.2.0",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "robots-parser": "^3.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -22,6 +30,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
+    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }

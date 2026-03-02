@@ -1,0 +1,38 @@
+{
+  "total": 51601,
+  "unique": 29905,
+  "removed": 21696,
+  "topReasons": [
+    {
+      "reason": "exact_normalized_duplicate",
+      "count": 21275
+    },
+    {
+      "reason": "near_signature_duplicate",
+      "count": 421
+    }
+  ],
+  "perTopic": {
+    "pregnancy": {
+      "total": 51574,
+      "unique": 29878,
+      "removed": 21696
+    },
+    "fertility": {
+      "total": 7,
+      "unique": 7,
+      "removed": 0
+    },
+    "period": {
+      "total": 15,
+      "unique": 15,
+      "removed": 0
+    },
+    "contraception": {
+      "total": 5,
+      "unique": 5,
+      "removed": 0
+    }
+  },
+  "top5000Count": 5000
+}
