@@ -4,8 +4,8 @@ import { useMemo, useState } from "react";
 import bingoData from "@/data/bingo.he.json";
 import { pickRandomUnique } from "@/lib/random";
 
-const BOARD_SIZE = 25;
-const GRID_SIZE = 5;
+const BOARD_SIZE = 16;
+const GRID_SIZE = 4;
 
 type BingoItem = {
   id: string;
@@ -129,19 +129,21 @@ export default function BingoBoard({ initialBoardItems }: BingoBoardProps) {
 
   return (
     <>
-      <section className="rounded-3xl border border-slate-300 bg-white p-5 shadow-md sm:p-7">
-        <div className="mb-4 flex items-center justify-between gap-3">
-          <p className="text-base font-semibold tracking-tight text-slate-700">מסומן: {selectedCount}/25</p>
+      <section className="rounded-3xl border border-slate-300 bg-white p-3 shadow-md sm:p-7">
+        <div className="mb-3 flex items-center justify-between gap-2 sm:mb-4 sm:gap-3">
+          <p className="text-sm font-semibold tracking-tight text-slate-700 sm:text-base">
+            מסומן: {selectedCount}/{BOARD_SIZE}
+          </p>
           <button
             type="button"
             onClick={createNewBoard}
-            className="inline-flex min-h-11 items-center rounded-2xl border border-slate-300 bg-white px-5 py-2.5 text-base font-semibold text-slate-700 shadow-sm transition duration-200 hover:bg-slate-100 active:translate-y-px"
+            className="inline-flex min-h-10 items-center rounded-2xl border border-slate-300 bg-white px-4 py-2 text-sm font-semibold text-slate-700 shadow-sm transition duration-200 hover:bg-slate-100 active:translate-y-px sm:min-h-11 sm:px-5 sm:py-2.5 sm:text-base"
           >
             חדש
           </button>
         </div>
 
-        <div className="grid grid-cols-5 gap-2 sm:gap-3">
+        <div className="grid grid-cols-4 gap-1.5 md:gap-3">
           {boardItems.map((item, index) => {
             const isSelected = selected[index];
             return (
@@ -149,7 +151,7 @@ export default function BingoBoard({ initialBoardItems }: BingoBoardProps) {
                 key={`${item}-${index}`}
                 type="button"
                 onClick={() => toggleCell(index)}
-                className={`flex aspect-square min-h-[74px] items-center justify-center rounded-2xl border p-3 text-center text-sm font-medium leading-[1.45] shadow-sm transition duration-200 sm:min-h-[88px] sm:text-[15px] ${
+                className={`flex aspect-square w-full items-center justify-center overflow-hidden rounded-2xl border p-1.5 text-center text-[11.5px] font-semibold leading-[1.22] break-normal shadow-sm transition duration-200 md:p-3 md:text-[15px] md:leading-[1.35] ${
                   isSelected
                     ? "border-emerald-500 bg-emerald-400/90 font-semibold text-white"
                     : "border-slate-300 bg-slate-50 text-slate-800 hover:bg-slate-100"

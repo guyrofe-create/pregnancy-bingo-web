@@ -4,7 +4,7 @@ import BingoBoard from "@/components/BingoBoard";
 import bingoData from "@/data/bingo.he.json";
 import { pickRandomUnique } from "@/lib/random";
 
-const BOARD_SIZE = 25;
+const BOARD_SIZE = 16;
 
 type BingoItem = {
   id: string;
