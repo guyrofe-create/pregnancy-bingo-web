@@ -9,7 +9,12 @@
     "title": "Association of Nausea and Vomiting During Pregnancy With Pregnancy Loss",
     "abstractQuote": "Nausea and vomiting were common very early in pregnancy and were associated with a reduced risk for pregnancy loss.",
     "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/27669539/",
-    "notes": "Supports association between nausea and reduced miscarriage risk. Not predictive at individual level."
+    "notes": "Supports association between nausea and reduced miscarriage risk. Not predictive at individual level.",
+    "sourceKind": "paper",
+    "publisher": "American Medical Association",
+    "identifiers": {
+      "pmid": "27669539"
+    }
   },
   {
     "id": "s002",
@@ -21,7 +26,12 @@
     "title": "First trimester bleeding",
     "abstractQuote": "Vaginal bleeding in the first trimester occurs in about one fourth of pregnancies.",
     "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/19514696/",
-    "notes": "Provides prevalence data for first-trimester bleeding."
+    "notes": "Provides prevalence data for first-trimester bleeding.",
+    "sourceKind": "paper",
+    "publisher": "American Academy of Family Physicians",
+    "identifiers": {
+      "pmid": "19514696"
+    }
   },
   {
     "id": "s003",
@@ -33,7 +43,12 @@
     "title": "The timing of the fertile window in the menstrual cycle",
     "abstractQuote": "In only about 30% of women is the fertile window entirely within days 10 to 17.",
     "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/11082086/",
-    "notes": "Demonstrates variability of fertile window and challenges day-14 ovulation myth."
+    "notes": "Demonstrates variability of fertile window and challenges day-14 ovulation myth.",
+    "sourceKind": "paper",
+    "publisher": "BMJ",
+    "identifiers": {
+      "pmid": "11082086"
+    }
   },
   {
     "id": "s004",
@@ -45,7 +60,12 @@
     "title": "Effectiveness of lactational amenorrhoea in prevention of pregnancy in Manila",
     "abstractQuote": "The lactational amenorrhoea method was 99% effective when used correctly for up to six months.",
     "pubmedUrl": "https://pubmed.ncbi.nlm.nih.gov/8876092/",
-    "notes": "Supports effectiveness of LAM under strict criteria."
+    "notes": "Supports effectiveness of LAM under strict criteria.",
+    "sourceKind": "paper",
+    "publisher": "Elsevier (Contraception)",
+    "identifiers": {
+      "pmid": "8876092"
+    }
   },
   {
     "id": "s005",
@@ -54,7 +74,12 @@
     "year": 2018,
     "title": "Heavy menstrual bleeding: assessment and management (NG88)",
     "url": "https://www.nice.org.uk/guidance/ng88",
-    "notes": "Official NICE guideline on heavy menstrual bleeding."
+    "notes": "Official NICE guideline on heavy menstrual bleeding.",
+    "sourceKind": "guideline",
+    "publisher": "NICE",
+    "identifiers": {
+      "guidelineId": "NG88"
+    }
   },
   {
     "id": "s006",
@@ -63,7 +88,12 @@
     "year": 2025,
     "title": "CDC - Lactational Amenorrhea Method (US MEC Appendix G)",
     "url": "https://www.cdc.gov/contraception/hcp/usmec/lactational-amenorrhea-method.html",
-    "notes": "Official CDC criteria for LAM use."
+    "notes": "Official CDC criteria for LAM use.",
+    "sourceKind": "guideline",
+    "publisher": "CDC",
+    "identifiers": {
+      "guidelineId": "US MEC Appendix G"
+    }
   },
   {
     "id": "s007",
@@ -72,7 +102,12 @@
     "year": 2023,
     "title": "WHO - Restricting caffeine intake during pregnancy",
     "url": "https://www.who.int/tools/elena/interventions/caffeine-pregnancy",
-    "notes": "WHO recommendation regarding caffeine intake during pregnancy."
+    "notes": "WHO recommendation regarding caffeine intake during pregnancy.",
+    "sourceKind": "guideline",
+    "publisher": "WHO",
+    "identifiers": {
+      "guidelineId": "ELENA caffeine-pregnancy"
+    }
   },
   {
     "id": "s008",
@@ -81,7 +116,12 @@
     "year": 2010,
     "title": "ACOG - Moderate Caffeine Consumption During Pregnancy",
     "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2010/08/moderate-caffeine-consumption-during-pregnancy",
-    "notes": "ACOG guidance on moderate caffeine intake limits."
+    "notes": "ACOG guidance on moderate caffeine intake limits.",
+    "sourceKind": "guideline",
+    "publisher": "ACOG",
+    "identifiers": {
+      "guidelineId": "Committee Opinion 462"
+    }
   },
   {
     "id": "s009",
@@ -90,7 +130,12 @@
     "year": 2024,
     "title": "משרד הבריאות - חומצה פולית לפני הריון",
     "url": "https://me.health.gov.il/parenting/family-planning/healthy-pregnancy-and-preventing-risks/nutrition-pregnancy/folic-acid/",
-    "notes": "Israeli Ministry of Health recommendation on folic acid."
+    "notes": "Israeli Ministry of Health recommendation on folic acid.",
+    "sourceKind": "government",
+    "publisher": "משרד הבריאות",
+    "identifiers": {
+      "guidelineId": "MOH folic-acid"
+    }
   },
   {
     "id": "s010",
@@ -99,6 +144,11 @@
     "year": 2024,
     "title": "Gov.il - הריון בסיכון גבוה",
     "url": "https://www.gov.il/he/pages/highrisk-pregnancy",
-    "notes": "Official Israeli government page regarding high-risk pregnancy."
+    "notes": "Official Israeli government page regarding high-risk pregnancy.",
+    "sourceKind": "government",
+    "publisher": "Gov.il",
+    "identifiers": {
+      "guidelineId": "gov-il highrisk-pregnancy"
+    }
   }
 ]

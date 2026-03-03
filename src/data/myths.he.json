@@ -7,7 +7,9 @@
     "evidenceSeedIds": [
       "s001"
     ],
-    "topic": "pregnancy"
+    "topic": "pregnancy",
+    "evidenceLevel": "moderate",
+    "evidenceSummary": "הספרות מצביעה על קשר סטטיסטי בין בחילות מוקדמות להפחתת סיכון לאובדן הריון, ולכן הטענה הדטרמיניסטית אינה נתמכת."
   },
   {
     "id": "m002",
@@ -17,7 +19,9 @@
     "evidenceSeedIds": [
       "s002"
     ],
-    "topic": "pregnancy"
+    "topic": "pregnancy",
+    "evidenceLevel": "moderate",
+    "evidenceSummary": "דימום בשליש הראשון מתואר בשכיחות יחסית גבוהה במחקרים תצפיתיים, ולכן הטענה נכונה ברמת אוכלוסייה."
   },
   {
     "id": "m003",
@@ -27,7 +31,9 @@
     "evidenceSeedIds": [
       "s002"
     ],
-    "topic": "pregnancy"
+    "topic": "pregnancy",
+    "evidenceLevel": "moderate",
+    "evidenceSummary": "מקורות שכיחות מצביעים שדימום בשליש הראשון אינו נדיר מאוד, ולכן הטענה שמדובר באירוע נדיר מאוד אינה נתמכת."
   },
   {
     "id": "m004",
@@ -37,7 +43,9 @@
     "evidenceSeedIds": [
       "s003"
     ],
-    "topic": "fertility"
+    "topic": "fertility",
+    "evidenceLevel": "moderate",
+    "evidenceSummary": "מחקרי עוקבה מראים שונות משמעותית בחלון הפוריות, ולכן טווח קבוע לכל הנשים אינו מדויק."
   },
   {
     "id": "m005",
@@ -47,7 +55,9 @@
     "evidenceSeedIds": [
       "s003"
     ],
-    "topic": "fertility"
+    "topic": "fertility",
+    "evidenceLevel": "moderate",
+    "evidenceSummary": "תזמון ביוץ משתנה בין נשים ובין מחזורים, ולכן יום 14 אינו כלל אוניברסלי."
   },
   {
     "id": "m006",
@@ -58,7 +68,9 @@
       "s004",
       "s006"
     ],
-    "topic": "breastfeeding"
+    "topic": "breastfeeding",
+    "evidenceLevel": "strong",
+    "evidenceSummary": "יעילות LAM מתוארת בתנאים מוגדרים בקווים מנחים ובמחקרי עוקבה, ולכן הטענה נכונה תחת תנאי השיטה."
   },
   {
     "id": "m007",
@@ -69,7 +81,9 @@
       "s004",
       "s006"
     ],
-    "topic": "contraception"
+    "topic": "contraception",
+    "evidenceLevel": "strong",
+    "evidenceSummary": "הגנת הנקה מפני הריון תלויה בקריטריונים מוגדרים, ולכן הטענה להגנה תמידית ללא תנאים אינה נתמכת."
   },
   {
     "id": "m008",
@@ -80,7 +94,9 @@
       "s007",
       "s008"
     ],
-    "topic": "pregnancy"
+    "topic": "pregnancy",
+    "evidenceLevel": "strong",
+    "evidenceSummary": "קיימים קווים מנחים רשמיים של WHO ו-ACOG בנושא קפאין בהריון, ולכן הטענה נכונה."
   },
   {
     "id": "m009",
@@ -91,7 +107,9 @@
       "s007",
       "s008"
     ],
-    "topic": "pregnancy"
+    "topic": "pregnancy",
+    "evidenceLevel": "strong",
+    "evidenceSummary": "קיימים מקורות מקצועיים רשמיים בנושא קפאין בהריון, ולכן הטענה שאין התייחסות מקצועית היא מיתוס."
   },
   {
     "id": "m010",
@@ -101,17 +119,21 @@
     "evidenceSeedIds": [
       "s009"
     ],
-    "topic": "pregnancy"
+    "topic": "pregnancy",
+    "evidenceLevel": "strong",
+    "evidenceSummary": "משרד הבריאות מפרסם הנחיות טרום הריון לחומצה פולית, ולכן הטענה נכונה."
   },
   {
     "id": "m011",
     "statement": "הריון בסיכון גבוה מתואר גם בעמוד ממשלתי רשמי בישראל.",
-    "answer": "truth",
+    "answer": "unknown",
     "explanation": "קיים עמוד ממשלתי רשמי שמתאר את הנושא של הריון בסיכון גבוה.\nזהו מקור ציבורי מוסמך ברמת מדינה.",
     "evidenceSeedIds": [
       "s010"
     ],
-    "topic": "postpartum"
+    "topic": "postpartum",
+    "evidenceLevel": "mixed",
+    "evidenceSummary": "המקור הקיים מתאר את התחום ברמה כללית, אך אינו מכריע באופן חד-משמעי בטענה זו ולכן הסיווג נשאר לא חד-משמעי."
   },
   {
     "id": "m012",
@@ -121,6 +143,8 @@
     "evidenceSeedIds": [
       "s005"
     ],
-    "topic": "period"
+    "topic": "period",
+    "evidenceLevel": "strong",
+    "evidenceSummary": "NICE מפרסם קו מנחה ייעודי לדימום וסתי כבד, ולכן הטענה שאין קו מנחה מוסדר אינה נכונה."
   }
 ]

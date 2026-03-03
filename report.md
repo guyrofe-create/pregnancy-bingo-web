@@ -1,0 +1,208 @@
+# Myths Validation Report
+
+- Generated: 2026-03-03T09:17:52.198Z
+- Total myths: 12
+- Approved questions: 19850
+- Rejected questions: 36763
+- Answer counts: truth=4, myth=7, unknown=1
+
+## Datasets Scanned
+
+- src/data/myths.he.json: total=12, truth=4, myth=7, unknown=1, approved=12, rejected=0, violations=0
+- src/harvest/draft-myths-top5000.json: total=5000, truth=0, myth=0, unknown=0, approved=3478, rejected=1522, violations=0
+- src/harvest/draft-myths.json: total=51601, truth=0, myth=0, unknown=0, approved=16360, rejected=35241, violations=0
+
+## Question Quality Summary
+
+- approved: 19850
+- rejected: 36763
+- duplicate_exact: 34287
+- personal_case: 737
+- noise_or_reply: 188
+- too_short_or_unclear: 1392
+- duplicate_near: 159
+
+## Violations
+
+- none
+
+## 50 Problematic Examples
+
+- m_auto_003 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: הנקת תינוק שאינו שלי-מותר/אסור?"
+  - cleaned: "הנקת תינוק שאינו שלי-מותר/אסור?"
+- m_auto_006 (src/harvest/draft-myths-top5000.json) -> personal_case
+  - "אחת ולתמיד מה אסור לי בהריון?! (לת)"
+  - cleaned: "אחת ולתמיד מה אסור לי בהריון?!"
+- m_auto_007 (src/harvest/draft-myths-top5000.json) -> personal_case
+  - "RE: אחת ולתמיד מה אסור לי בהריון?!"
+  - cleaned: "אחת ולתמיד מה אסור לי בהריון?!"
+- m_auto_009 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: קפאין בהריון-מותר מעט או אסור בכלל"
+  - cleaned: "קפאין בהריון-מותר מעט או אסור בכלל."
+- m_auto_011 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: מקלחת בהריוןבהריון מותר או אסור"
+  - cleaned: "מקלחת בהריוןבהריון מותר או אסור."
+- m_auto_013 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: מינון לא נכון של איקקלומין.עזרה בבקשה"
+  - cleaned: "מינון לא נכון של איקקלומין.עזרה בבקשה."
+- m_auto_016 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: סדר לא נכון בגלולות בטעות"
+  - cleaned: "סדר לא נכון בגלולות בטעות."
+- m_auto_021 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: טיול ג'יפים- מותר/אסור"
+  - cleaned: "טיול ג'יפים- מותר/אסור."
+- m_auto_033 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: הזרעה- כאבים הגיוני? מה מותר לעשות ?"
+  - cleaned: "הזרעה- כאבים הגיוני? מה מותר לעשות?"
+- m_auto_037 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: אבחון שחלות פוליצסטיות נכון?"
+  - cleaned: "אבחון שחלות פוליצסטיות נכון?"
+- m_auto_044 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם נכון להתחיל סבב עם lh 4.5?"
+  - cleaned: "האם נכון להתחיל סבב עם lh 4.5?"
+- m_auto_046 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: כמה ימים מותר לקחת אסטרופם ברציפות?"
+  - cleaned: "כמה ימים מותר לקחת אסטרופם ברציפות?"
+- m_auto_047 (src/harvest/draft-myths-top5000.json) -> noise_or_reply
+  - "תודה! והאם תמיד כל הביציות שנשאבו מופרות כך?"
+  - cleaned: "תודה! והאם תמיד כל הביציות שנשאבו מופרות כך?"
+- m_auto_049 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: איזה פרוטוקול מעלה את הסיכוי לקליטת הריון?"
+  - cleaned: "איזה פרוטוקול מעלה את הסיכוי לקליטת הריון?"
+- m_auto_051 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: תרומת ביצית האם היא בטוחה ?"
+  - cleaned: "תרומת ביצית האם היא בטוחה?"
+- m_auto_054 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם נכון שעוברים יכולים להיפלט מהרחם?"
+  - cleaned: "האם נכון שעוברים יכולים להיפלט מהרחם?"
+- m_auto_056 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר לישון על הבטן בשליש השני?"
+  - cleaned: "האם מותר לישון על הבטן בשליש השני?"
+- m_auto_058 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר להכנס לים המלח בהריון?"
+  - cleaned: "האם מותר להכנס לים המלח בהריון?"
+- m_auto_061 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: פיפל חודש רצוף האם מותר ?"
+  - cleaned: "פיפל חודש רצוף האם מותר?"
+- m_auto_064 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: פרוגינובה בהריון, האם מותר????"
+  - cleaned: "פרוגינובה בהריון, האם מותר?"
+- m_auto_073 (src/harvest/draft-myths-top5000.json) -> personal_case
+  - "גינרה הוחלפה לגלולה בשם שלי האם זה נכון?"
+  - cleaned: "גינרה הוחלפה לגלולה בשם שלי האם זה נכון?"
+- m_auto_076 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר גלולות יסמין והנקה?"
+  - cleaned: "האם מותר גלולות יסמין והנקה?"
+- m_auto_082 (src/harvest/draft-myths-top5000.json) -> personal_case
+  - "גלולות מינס , אני בהריון? נטלתי נכון?"
+  - cleaned: "גלולות מינס, אני בהריון? נטלתי נכון?"
+- m_auto_087 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר להניק אחרי צילום רנטגן?"
+  - cleaned: "האם מותר להניק אחרי צילום רנטגן?"
+- m_auto_089 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר להתשמש בשמפו נגד קשקשים בהנקה?"
+  - cleaned: "האם מותר להתשמש בשמפו נגד קשקשים בהנקה?"
+- m_auto_091 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר טיפות ולריאן בהנקה?"
+  - cleaned: "האם מותר טיפות ולריאן בהנקה?"
+- m_auto_093 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר לעשות פעולות כימיות בשיער בזמן הנקה?"
+  - cleaned: "האם מותר לעשות פעולות כימיות בשיער בזמן הנקה?"
+- m_auto_095 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: דחוף - האם מותר להניק כשיש פצע בפטמה?"
+  - cleaned: "דחוף - האם מותר להניק כשיש פצע בפטמה?"
+- m_auto_097 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: דתאמיצין - האם מותר בהנקה?"
+  - cleaned: "דתאמיצין - האם מותר בהנקה?"
+- m_auto_099 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר לעשות כושר בזמן הנקה?"
+  - cleaned: "האם מותר לעשות כושר בזמן הנקה?"
+- m_auto_131 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "מוקסיפן בהריון-האם מותר? (לת)"
+  - cleaned: "מוקסיפן בהריון-האם מותר?"
+- m_auto_136 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "האם מותר מוקסיויוט פורטה 500 בהריון? (לת)"
+  - cleaned: "האם מותר מוקסיויוט פורטה 500 בהריון?"
+- m_auto_140 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: זיהום ו/או דלקת בתחילת הריון האם מסוכן לעובר"
+  - cleaned: "זיהום ו/או דלקת בתחילת הריון האם מסוכן לעובר."
+- m_auto_141 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "פיזיותרפיה גב תחתון בשליש ראשון - האם מסוכן? (לת)"
+  - cleaned: "פיזיותרפיה גב תחתון בשליש ראשון - האם מסוכן?"
+- m_auto_143 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: ניתוח קיסרי אלקטיבי - לא בטוחה בקשר אליו. עזרה"
+  - cleaned: "ניתוח קיסרי אלקטיבי - לא בטוחה בקשר אליו. עזרה."
+- m_auto_145 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר לקחת פראמין בזמן ההריון"
+  - cleaned: "האם מותר לקחת פראמין בזמן ההריון."
+- m_auto_146 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "כמעט ולא אוכלת עקב בחילות האם מסוכן ? (לת)"
+  - cleaned: "כמעט ולא אוכלת עקב בחילות האם מסוכן?"
+- m_auto_151 (src/harvest/draft-myths-top5000.json) -> personal_case
+  - "אני עוסקת בבנית ציפורניים ורציתי לדעת אם זה מסוכן (לת)"
+  - cleaned: "אני עוסקת בבנית ציפורניים ורציתי לדעת אם זה מסוכן."
+- m_auto_158 (src/harvest/draft-myths-top5000.json) -> personal_case
+  - "מתי לבצע בדיקת הריון כשתמיד אני מקבלת ווסת 18 יום אחרי אובריטול"
+  - cleaned: "מתי לבצע בדיקת הריון כשתמיד אני מקבלת ווסת 18 יום אחרי אובריטול."
+- m_auto_162 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר קייאקים בהריון"
+  - cleaned: "האם מותר קייאקים בהריון."
+- m_auto_169 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר לקחת דיאה וגלולות למניעת היריון יחד"
+  - cleaned: "האם מותר לקחת דיאה וגלולות למניעת היריון יחד."
+- m_auto_173 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: שאלה כללית לגבי תרופות אסורות בהיריון"
+  - cleaned: "שאלה כללית לגבי תרופות אסורות בהיריון."
+- m_auto_176 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: תוכן הזקיק - האם תמיד מכיל ביצית אם התקבלה ווסת באותו מחזור.. (לת)"
+  - cleaned: "תוכן הזקיק - האם תמיד מכיל ביצית אם התקבלה ווסת באותו מחזור.."
+- m_auto_178 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: אחוזי הצלחה בהזרעה - טבעי\לא טבעי - שצלחו בגיל 40 ומעלה.."
+  - cleaned: "אחוזי הצלחה בהזרעה - טבעי\לא טבעי - שצלחו בגיל 40 ומעלה.."
+- m_auto_180 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: לקיחת זריקות יחד והאם מותר לגבר לקחת פרוביוטיקה לפני שאיבת"
+  - cleaned: "לקיחת זריקות יחד והאם מותר לגבר לקחת פרוביוטיקה לפני שאיבת."
+- m_auto_182 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: מועד ביוץ הבטוח במחזור סדיר עפ"י ווסת שאחרי"
+  - cleaned: "מועד ביוץ הבטוח במחזור סדיר עפ"י ווסת שאחרי."
+- m_auto_186 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: האם מותר לקחת נורופן בהריון? (לת)"
+  - cleaned: "האם מותר לקחת נורופן בהריון?"
+- m_auto_187 (src/harvest/draft-myths-top5000.json) -> too_short_or_unclear
+  - "RE: האם מותר.............."
+  - cleaned: "האם מותר.............."
+- m_auto_189 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: גלוקמין לאחר הזרעה האם מותר"
+  - cleaned: "גלוקמין לאחר הזרעה האם מותר."
+- m_auto_191 (src/harvest/draft-myths-top5000.json) -> duplicate_exact
+  - "RE: זאת אותה השאלה פשוט לא הצלחתי לצרף את הקובץ מעלה שוב"
+  - cleaned: "זאת אותה השאלה פשוט לא הצלחתי לצרף את הקובץ מעלה שוב."
+
+## 20 Passed Samples
+
+- m001 | myth | moderate | s001
+  - בחילות והקאות בהריון תמיד אומרות שההריון לא תקין.
+- m002 | truth | moderate | s002
+  - דימום בשליש הראשון יכול להופיע בכרבע מההריונות.
+- m003 | myth | moderate | s002
+  - דימום בשליש הראשון הוא אירוע נדיר מאוד בהריון.
+- m004 | myth | moderate | s003
+  - חלון הפוריות נמצא תמיד רק בין ימים 10 עד 17 במחזור.
+- m005 | myth | moderate | s003
+  - ביוץ תמיד מתרחש ביום 14 למחזור.
+- m006 | truth | strong | s004, s006
+  - הנקה יכולה לשמש כאמצעי מניעה זמני בתנאים מוגדרים.
+- m007 | myth | strong | s004, s006
+  - הנקה לבדה תמיד מונעת הריון בלי קשר לתנאים.
+- m008 | truth | strong | s007, s008
+  - קיימות הנחיות רשמיות שמתייחסות לצריכת קפאין בהריון.
+- m009 | myth | strong | s007, s008
+  - אין בכלל התייחסות מקצועית לצריכת קפאין בהריון.
+- m010 | truth | strong | s009
+  - משרד הבריאות בישראל מפרסם המלצה על חומצה פולית לפני הריון.
+- m011 | unknown | mixed | s010
+  - הריון בסיכון גבוה מתואר גם בעמוד ממשלתי רשמי בישראל.
+- m012 | myth | strong | s005
+  - לדימום וסתי כבד אין קו מנחה רשמי ומוסדר.
+

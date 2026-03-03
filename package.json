@@ -4,12 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "npm run validate && next build",
+    "build": "npm run validate && next build --webpack",
     "harvest:dedupe": "tsx scripts/dedupe-harvest.ts",
     "harvest:index": "tsx scripts/fetch-indexes.ts --max 500 --timeoutMs 15000",
     "harvest:promote-top": "tsx scripts/promote-harvest.ts --in src/harvest/harvest-unique-top5000.json --out src/harvest/draft-myths-top5000.json",
     "harvest:web": "tsx scripts/harvest-web.ts",
-    "validate": "tsx scripts/validate-myths.ts",
+    "validate": "node --import tsx scripts/validate-myths.ts",
     "start": "next start",
     "lint": "eslint"
   },

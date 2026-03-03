@@ -1,4 +1,6 @@
-export type MythAnswer = "myth" | "truth";
+export type MythAnswer = "myth" | "truth" | "unknown";
+
+export type EvidenceLevel = "strong" | "moderate" | "limited" | "mixed" | "insufficient";
 
 export type MythTopic =
   | "pregnancy"
@@ -23,12 +25,19 @@ export type EvidenceArticleType =
 export type BaseEvidenceSeed = {
   id: string;
   sourceType: EvidenceSourceType;
+  sourceKind: "guideline" | "paper" | "government" | "other";
+  publisher: string;
   articleType: EvidenceArticleType;
   year: number;
   title: string;
   journal?: string;
   abstractQuote?: string;
   notes?: string;
+  identifiers?: {
+    pmid?: string;
+    doi?: string;
+    guidelineId?: string;
+  };
 };
 
 export type PubMedEvidenceSeed = BaseEvidenceSeed & {
@@ -51,6 +60,9 @@ export type MythItem = {
   topic: MythTopic;
   statement: string;
   answer: MythAnswer;
+  evidenceLevel: EvidenceLevel;
+  evidenceSummary?: string;
+  evidenceQuote?: string;
   explanation: string;
   evidenceSeedIds: string[];
 };

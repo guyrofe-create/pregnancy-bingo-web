@@ -50,7 +50,13 @@ function getRandomMyth(topic: MythFilterTopic, excludeId?: string): MythItem | n
 }
 
 function getLabel(answer: MythAnswer): string {
-  return answer === "truth" ? "אמת" : "מיתוס";
+  if (answer === "truth") {
+    return "אמת";
+  }
+  if (answer === "myth") {
+    return "מיתוס";
+  }
+  return "לא חד-משמעי";
 }
 
 function getEvidenceLink(evidence: EvidenceSeed): string {
